@@ -1,0 +1,5 @@
+discord:
+  token: YOURTOKEN
+
+github:
+  organame: "hackerspace-hb"
